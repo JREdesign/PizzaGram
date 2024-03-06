@@ -47,6 +47,11 @@ El stack tecnológico y herramientas utilizadas:
 <img src="https://imgur.com/7Qbooqc.jpg" style="width: 70%;" alt="Imagen 3">
 <img src="https://imgur.com/UXpQfTk.jpg" style="width: 70%;" alt="Imagen 4">
 
+## 🔎 Análisis del código en detalle
+
+https://rich-termite-16a.notion.site/PizzaGram-An-lisis-del-c-digo-5550286909c84316b333d955b5a74df2?pvs=4
+
+
 
 ## 📜 ️Instrucciones
 - Clonar repositorio y entrar en la carpeta raiz
@@ -54,14 +59,9 @@ El stack tecnológico y herramientas utilizadas:
 - En la consola de comandos cd client `npm install` 
 - Conectar el Backend con MongoDB, para ello:
  Ir a la ruta `server/src/index.js` y cambiar la siguiente cadena con la que nos ofrezca MongoDB: 
-
-```
-mongoose.connect(
-  "mongodb+srv://usuario:contrasena@recipes.olew0we.mongodb.net/recipes?retryWrites=true&w=majority&appName=recipes"
-)
-```
-
-
+ ````mongoose.connect(
+  "mongodb+srv://usuario:contraseña@recipes.olew0we.mongodb.net/?retryWrites=true&w=majority&appName=recipes"
+)````
 
 ---
 
