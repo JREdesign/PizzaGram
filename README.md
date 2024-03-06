@@ -1,6 +1,9 @@
 # 🍕 PizzaGram | Comparte tu pasión por la pizza con el mundo
 
-<img src="https://imgur.com/euRbXbY.png " width="250" alt="PizzaGram"/>
+<p align="center">
+  <img src="https://imgur.com/BxkHVXv.jpg" alt="PizzaGram"/>
+</p>
+
 
 
 # 🌍 Un lugar para postear tus tecetas
