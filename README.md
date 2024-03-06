@@ -52,14 +52,18 @@ El stack tecnológico y herramientas utilizadas:
 - Clonar repositorio y entrar en la carpeta raiz
 - En la consola de comandos cd server y `npm install` 
 - En la consola de comandos cd client `npm install` 
-- Conectar con MongoDB con la informacion de tu base de datos 
+- Conectar el Backend con MongoDB, para ello:
+ Ir a la ruta `server/src/index.js` y cambiar la siguiente cadena con la que nos ofrezca MongoDB: 
+ ````mongoose.connect(
+  "mongodb+srv://usuario:contraseña@recipes.olew0we.mongodb.net/?retryWrites=true&w=majority&appName=recipes"
+)````
+
 ---
 
 Creado por [JREdesign](https://github.com/JREdesign)  
 
 Proyecto: https://github.com/JREdesign/PizzaGram
 
-Despliegue en **Vercel**: 
 
 ![Static Badge](https://img.shields.io/badge/Version-5.0-green) ![Static Badge](https://img.shields.io/badge/Version%20API-2.1-blue)
 
