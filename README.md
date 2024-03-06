@@ -59,11 +59,12 @@ https://rich-termite-16a.notion.site/PizzaGram-An-lisis-del-c-digo-5550286909c84
 - En la consola de comandos cd client `npm install` 
 - Conectar el Backend con MongoDB, para ello:
  Ir a la ruta `server/src/index.js` y cambiar la siguiente cadena con la que nos ofrezca MongoDB: 
- ````mongoose.connect(
-  "mongodb+srv://usuario:contraseña@recipes.olew0we.mongodb.net/?retryWrites=true&w=majority&appName=recipes"
-)````
 
----
+```
+mongoose.connect(
+  "mongodb+srv://usuario:contrasena@recipes.olew0we.mongodb.net/recipes?retryWrites=true&w=majority&appName=recipes"
+)
+```
 
 Creado por [JREdesign](https://github.com/JREdesign)  
 
