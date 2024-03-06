@@ -6,7 +6,7 @@
 
 
 
-# 🌍 Un lugar para postear tus tecetas
+# 🌍 Tus recetas de pizza al alcance del mundo
 
 Bienvenido a **PizzaGram**, un simpático proyecto de caracter educativo dedicado apasionadamente al mundo de las pizzas. Nuestra plataforma está diseñada para ser el lugar ideal donde los amantes de la pizza pueden registrarse y compartir sus recetas únicas con una comunidad global. No solo es un espacio para descubrir nuevas y deliciosas formas de disfrutar tu pizza favorita, sino también un rincón personal donde puedes almacenar y editar tus creaciones culinarias a lo largo del tiempo.
 
@@ -40,7 +40,7 @@ El stack tecnológico y herramientas utilizadas:
 
 ## 🖼️Capturas de pantalla
 
-# Galería de Imágenes
+
 
 <img src="https://imgur.com/C3uUMl1.jpg" style="width: 70%;" alt="Imagen 1">
 <img src="https://imgur.com/nNchgog.jpg" style="width: 70%;" alt="Imagen 2">
@@ -48,12 +48,16 @@ El stack tecnológico y herramientas utilizadas:
 <img src="https://imgur.com/UXpQfTk.jpg" style="width: 70%;" alt="Imagen 4">
 
 
-
+## 📜 ️Instrucciones
+- Clonar repositorio y entrar en la carpeta raiz
+- En la consola de comandos cd server y `npm install` 
+- En la consola de comandos cd client `npm install` 
+- Conectar con MongoDB con la informacion de tu base de datos 
 ---
 
 Creado por [JREdesign](https://github.com/JREdesign)  
 
-Proyecto: 
+Proyecto: https://github.com/JREdesign/PizzaGram
 
 Despliegue en **Vercel**: 
 
