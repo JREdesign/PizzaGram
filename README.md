@@ -49,7 +49,7 @@ El stack tecnológico y herramientas utilizadas:
 
 ## 🔎 Análisis del código en detalle
 
-https://rich-termite-16a.notion.site/PizzaGram-An-lisis-del-c-digo-5550286909c84316b333d955b5a74df2?pvs=4
+https://jre-design.notion.site/PizzaGram-An-lisis-del-c-digo-5550286909c84316b333d955b5a74df2?pvs=74
 
 
 
